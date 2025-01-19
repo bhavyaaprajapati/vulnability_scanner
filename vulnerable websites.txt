@@ -1,0 +1,13 @@
+http://testphp.vulnweb.com/
+http://www.vulnerableweb.com
+http://demo.testfire.net
+http://vulnerable-website.com
+http://www.webappsecurity.com
+http://vulnerableapp.com
+http://acmesecurity.com
+http://pwnable.kr
+http://zero.webappsecurity.com
+http://vulnweb.com
+http://the-internet.herokuapp.com
+
+
